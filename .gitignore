@@ -5,3 +5,7 @@
 bin/
 build/
 lib/
+
+# Godot specified ignored files
+*.translation
+export_presets.cfg
